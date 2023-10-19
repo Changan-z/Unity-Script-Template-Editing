@@ -1,7 +1,7 @@
 # Unity-Script-Template-Editing
-
-Unity Version：Unity2020.3.15
 可以在Unity编辑器中对Unity的脚本模板进行快速编辑。
+
+<b>Unity Version：Unity2020.3.15</b>
 
 可以根据自己的个人需求和喜号来预定义Unity的脚本模板文件。如：在脚本头部添加作者信息，文件描述，版权等信息。
 
